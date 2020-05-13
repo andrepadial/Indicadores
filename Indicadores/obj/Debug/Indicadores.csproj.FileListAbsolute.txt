@@ -1,0 +1,16 @@
+C:\Users\andre.padial\documents\visual studio 2015\Projects\Indicadores\Indicadores\bin\Debug\Indicadores.exe.config
+C:\Users\andre.padial\documents\visual studio 2015\Projects\Indicadores\Indicadores\bin\Debug\Indicadores.exe
+C:\Users\andre.padial\documents\visual studio 2015\Projects\Indicadores\Indicadores\bin\Debug\Indicadores.pdb
+C:\Users\andre.padial\documents\visual studio 2015\Projects\Indicadores\Indicadores\bin\Debug\CriptorEngine.dll
+C:\Users\andre.padial\documents\visual studio 2015\Projects\Indicadores\Indicadores\bin\Debug\Rendimento.Layout.dll
+C:\Users\andre.padial\documents\visual studio 2015\Projects\Indicadores\Indicadores\bin\Debug\Dapper.dll
+C:\Users\andre.padial\documents\visual studio 2015\Projects\Indicadores\Indicadores\bin\Debug\Rendimento.Layout.pdb
+C:\Users\andre.padial\documents\visual studio 2015\Projects\Indicadores\Indicadores\bin\Debug\Dapper.xml
+C:\Users\andre.padial\documents\visual studio 2015\Projects\Indicadores\Indicadores\obj\Debug\Indicadores.csprojResolveAssemblyReference.cache
+C:\Users\andre.padial\documents\visual studio 2015\Projects\Indicadores\Indicadores\obj\Debug\Indicadores.Form1.resources
+C:\Users\andre.padial\documents\visual studio 2015\Projects\Indicadores\Indicadores\obj\Debug\Indicadores.frmIndicadores.resources
+C:\Users\andre.padial\documents\visual studio 2015\Projects\Indicadores\Indicadores\obj\Debug\Indicadores.frmTeste.resources
+C:\Users\andre.padial\documents\visual studio 2015\Projects\Indicadores\Indicadores\obj\Debug\Indicadores.Properties.Resources.resources
+C:\Users\andre.padial\documents\visual studio 2015\Projects\Indicadores\Indicadores\obj\Debug\Indicadores.csproj.GenerateResource.Cache
+C:\Users\andre.padial\documents\visual studio 2015\Projects\Indicadores\Indicadores\obj\Debug\Indicadores.exe
+C:\Users\andre.padial\documents\visual studio 2015\Projects\Indicadores\Indicadores\obj\Debug\Indicadores.pdb
